@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Pacifico', cursive;
+}
+.Header{
+    text-align: center;
+    margin-top: 35px;
+    color: #630000;
+}
+body{
+    background-color:#eeebdd;
+}
+.name_card{
+    color: #810000;
+}
+.card{
+    width: 550px;
+    height: 550px;
+    border: 5px solid #1b1717;
+    background-color: #b90202;
+    border-radius: 35px;
+    text-align: center;
+}
+.img_card{
+    height:450px ;
+    width: 450px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
