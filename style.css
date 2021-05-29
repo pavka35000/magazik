@@ -24,10 +24,17 @@ body{
     background-color: #b90202;
     border-radius: 35px;
     text-align: center;
+    margin: 0 50px 50px 50px;
 }
 .img_card{
     height:450px ;
     width: 450px;
     margin-top: 5px;
     margin-bottom: 5px;
+}
+.Product_field{
+width: 80px;
+margin: 0 auto;
+display: flex;
+justify-content: center;
 }
